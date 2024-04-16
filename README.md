@@ -4,14 +4,11 @@
 - Cleaned up the data and developed a prediction model and UI using Python.
 - Constructed diverse BI dashboards capable of displaying salaries across different job roles, countries, and other relevant factors, enhancing overall data visualization and comprehension.
   
-## Installation
-- pip install pandas 
-- pip install numpy
-- pip install matplotlib 
-- pip install keras
-- pip install scikit-learn
-- pip install joblib
-- pip install tk
+## Setup for Python:
+1. Install Python [Setup instructions](https://wiki.python.org/moin/BeginnersGuide)
+   
+2. Install Python packages
+   - pip3 install -r requirements.txt
 
 ## Usage
 - If you want to run only Aplication run main.py
